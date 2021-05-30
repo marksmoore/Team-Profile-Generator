@@ -1,7 +1,7 @@
 const Intern = require("../lib/Intern.js");
 
 const testName = "Andy Smith";
-const testId = 15;
+const testId = "15";
 const testEmail = "andys@gmail.com";
 const testSchool = "University of Texas";
 

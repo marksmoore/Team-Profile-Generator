@@ -1,7 +1,7 @@
 const Employee = require('../lib/Employee'); 
 
 const testName = "Tom Scott";
-const testId = 3;
+const testId = "3";
 const testEmail = "toms@gmail.com";
 const testRole = "Employee";
 

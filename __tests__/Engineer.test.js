@@ -1,7 +1,7 @@
 const Engineer = require("../lib/Engineer.js");
 
 const testName = "Mark Moore";
-const testId = 5;
+const testId = "5";
 const testEmail = "msmo1960@gmail.com";
 const testGithub = "marksmoore";
 

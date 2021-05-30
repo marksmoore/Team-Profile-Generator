@@ -1,7 +1,7 @@
 const Manager = require("../lib/Manager.js");
 
 const testName = "Jimbo Fisher";
-const testId = 10;
+const testId = "10";
 const testEmail = "jimbo@gmail.com";
 const testOfficeNumber = "222";
 
