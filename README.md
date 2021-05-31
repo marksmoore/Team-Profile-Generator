@@ -2,6 +2,8 @@
   # Mark S Moore
   E-mail: msmo1960@gmail.com
   ![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
+  
+  Please see walkthrough video, Team-Profile-Gen.mp4 on main page'
 ---
 ## Description 
 The project uses an interview to set up a team profile and generates an html to display it.
